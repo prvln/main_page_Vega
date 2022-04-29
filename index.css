@@ -1,0 +1,40 @@
+
+
+body, html{
+    width: 100%;
+    height: 100%;
+    font-family: montserrat;
+    
+}
+
+body{
+    margin: 0px;
+    
+    
+}
+
+.card-title{
+    color: #e42d70;
+}
+
+.card-text{
+    color: black;
+
+}
+.nav-link{
+    font-size: small;
+    
+    color: white;
+
+}
+
+.nav-link:hover{
+    color: #9fff8b !important;
+
+}
+
+
+
+p{
+    color: black;
+}
